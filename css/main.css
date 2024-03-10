@@ -1,0 +1,60 @@
+.purple-bg{
+    background-color: #6737E2;
+}
+.top-hero{
+    height: 70vh;
+}
+
+.montserrat{
+    font-family: 'montserrat';
+}
+
+.dc-purple{
+    font-weight: 500;
+    color: #6737E2;
+}
+.kumbh{
+    font-family: "kumbh sans";
+    font-weight: 700;
+}
+.lightpurple-bg{
+    background-color: #F0F2FA;
+}
+
+.bottom-hero{
+    height: 30vh;
+}
+
+.dc-purple-parent{
+    vertical-align: middle;
+}
+.contact-btn{
+    background-color: #6737E2;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+.footer-text{
+    font-size: 11px;
+    opacity: 0.5;
+}
+.footer-logo{
+    opacity: 0.5;
+}
+
+.bg-type-1{
+    background-image: url(/img/bgtype1.png);
+    background-position: 80% 50%;
+    object-fit: cover;
+    background-size: cover;
+}
+
+.bg-type-1-font-main{
+    font-size: 30px;
+    color: white;
+}
+
+.bg-type-1-font-small{
+    font-size: 20px;
+    color: white;
+}
